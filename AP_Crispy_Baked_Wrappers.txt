@@ -3,7 +3,7 @@ Crispy Baked Wrapper Appetizer
 Menu Class: Appetizers
 
 Description:
-This is a great dessert for birthday parties.
+Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
 
 Servings: 45
 
